@@ -1,4 +1,4 @@
-# Reverse Proxy Assignment
+# Reverse Proxy Networking
 
 Hi! I'm Bishika Pokharel (EUID: bp0797), and this is my reverse proxy
 project for the networking class. It's written in Python.
